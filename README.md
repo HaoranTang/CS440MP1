@@ -1,4 +1,5 @@
 # CS 440 MP1: Search
+MAINTAINING ACADEMIC INTEGRITY IS YOUR OWN OBLIGATION; DIRECT COPY OR OTEHR VIOLATIONS ARE STRONGLY DISCOURAGED.
 
 ## Implement:
 Write your search algorithms in *search.py* and do not edit any other files, except for testing.
